@@ -21,7 +21,7 @@ h1 {
 .border-rgb {
     position: relative;
     display: inline-block;
-    padding: 1px;
+    padding: 1.2px;
     border-radius: 30px;
     background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, purple);
     background-size: 400%;
